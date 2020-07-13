@@ -1,3 +1,6 @@
+![demonstration](https://github.com/ZannaZarina/meme-generator/blob/master/memes.gif)
+
+
 # memes
 
 ## Project setup
